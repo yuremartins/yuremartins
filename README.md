@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yure</h1>
 <h3 align="center">Data Analysis</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and Azure**
 
 - 💬 Ask me about **Python, SQL, Power BI, Google Data Studio**
 
