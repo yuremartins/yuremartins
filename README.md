@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yure</h1>
-<h3 align="center">Data Analysis</h3>
+<h3 align="center">Data Analyst</h3>
 
 - 🌱 I’m currently learning **Python and Azure**
 
